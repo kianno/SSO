@@ -1,0 +1,66 @@
+c:\users\stephen\documents\visual studio 2013\Projects\SSOAPP\SSOAPP\obj\Debug\SSOAPP.csprojResolveAssemblyReference.cache
+c:\users\stephen\documents\visual studio 2013\Projects\SSOAPP\SSOAPP\bin\SSOAPP.dll.config
+c:\users\stephen\documents\visual studio 2013\Projects\SSOAPP\SSOAPP\bin\SSOAPP.dll
+c:\users\stephen\documents\visual studio 2013\Projects\SSOAPP\SSOAPP\bin\SSOAPP.pdb
+c:\users\stephen\documents\visual studio 2013\Projects\SSOAPP\SSOAPP\bin\Antlr3.Runtime.dll
+c:\users\stephen\documents\visual studio 2013\Projects\SSOAPP\SSOAPP\bin\EntityFramework.dll
+c:\users\stephen\documents\visual studio 2013\Projects\SSOAPP\SSOAPP\bin\EntityFramework.SqlServer.dll
+c:\users\stephen\documents\visual studio 2013\Projects\SSOAPP\SSOAPP\bin\Microsoft.Web.Infrastructure.dll
+c:\users\stephen\documents\visual studio 2013\Projects\SSOAPP\SSOAPP\bin\Newtonsoft.Json.dll
+c:\users\stephen\documents\visual studio 2013\Projects\SSOAPP\SSOAPP\bin\System.Web.Helpers.dll
+c:\users\stephen\documents\visual studio 2013\Projects\SSOAPP\SSOAPP\bin\System.Web.Mvc.dll
+c:\users\stephen\documents\visual studio 2013\Projects\SSOAPP\SSOAPP\bin\System.Web.Optimization.dll
+c:\users\stephen\documents\visual studio 2013\Projects\SSOAPP\SSOAPP\bin\System.Web.Razor.dll
+c:\users\stephen\documents\visual studio 2013\Projects\SSOAPP\SSOAPP\bin\System.Web.WebPages.Deployment.dll
+c:\users\stephen\documents\visual studio 2013\Projects\SSOAPP\SSOAPP\bin\System.Web.WebPages.dll
+c:\users\stephen\documents\visual studio 2013\Projects\SSOAPP\SSOAPP\bin\System.Web.WebPages.Razor.dll
+c:\users\stephen\documents\visual studio 2013\Projects\SSOAPP\SSOAPP\bin\WebGrease.dll
+c:\users\stephen\documents\visual studio 2013\Projects\SSOAPP\SSOAPP\bin\EntityFramework.xml
+c:\users\stephen\documents\visual studio 2013\Projects\SSOAPP\SSOAPP\bin\EntityFramework.SqlServer.xml
+c:\users\stephen\documents\visual studio 2013\Projects\SSOAPP\SSOAPP\bin\System.Web.Helpers.xml
+c:\users\stephen\documents\visual studio 2013\Projects\SSOAPP\SSOAPP\bin\System.Web.Mvc.xml
+c:\users\stephen\documents\visual studio 2013\Projects\SSOAPP\SSOAPP\bin\System.Web.Optimization.xml
+c:\users\stephen\documents\visual studio 2013\Projects\SSOAPP\SSOAPP\bin\System.Web.Razor.xml
+c:\users\stephen\documents\visual studio 2013\Projects\SSOAPP\SSOAPP\bin\System.Web.WebPages.xml
+c:\users\stephen\documents\visual studio 2013\Projects\SSOAPP\SSOAPP\bin\System.Web.WebPages.Deployment.xml
+c:\users\stephen\documents\visual studio 2013\Projects\SSOAPP\SSOAPP\bin\System.Web.WebPages.Razor.xml
+c:\users\stephen\documents\visual studio 2013\Projects\SSOAPP\SSOAPP\bin\Antlr3.Runtime.pdb
+c:\users\stephen\documents\visual studio 2013\Projects\SSOAPP\SSOAPP\bin\Newtonsoft.Json.xml
+c:\users\stephen\documents\visual studio 2013\Projects\SSOAPP\SSOAPP\obj\Debug\SSOAPP.dll
+c:\users\stephen\documents\visual studio 2013\Projects\SSOAPP\SSOAPP\obj\Debug\SSOAPP.pdb
+D:\SingleSignOn\SSOAPP\SSOAPP\bin\SSOAPP.dll.config
+D:\SingleSignOn\SSOAPP\SSOAPP\bin\SSOAPP.dll
+D:\SingleSignOn\SSOAPP\SSOAPP\bin\SSOAPP.pdb
+D:\SingleSignOn\SSOAPP\SSOAPP\bin\Antlr3.Runtime.dll
+D:\SingleSignOn\SSOAPP\SSOAPP\bin\EntityFramework.dll
+D:\SingleSignOn\SSOAPP\SSOAPP\bin\EntityFramework.SqlServer.dll
+D:\SingleSignOn\SSOAPP\SSOAPP\bin\Microsoft.Web.Infrastructure.dll
+D:\SingleSignOn\SSOAPP\SSOAPP\bin\Newtonsoft.Json.dll
+D:\SingleSignOn\SSOAPP\SSOAPP\bin\System.Web.Helpers.dll
+D:\SingleSignOn\SSOAPP\SSOAPP\bin\System.Web.Mvc.dll
+D:\SingleSignOn\SSOAPP\SSOAPP\bin\System.Web.Optimization.dll
+D:\SingleSignOn\SSOAPP\SSOAPP\bin\System.Web.Razor.dll
+D:\SingleSignOn\SSOAPP\SSOAPP\bin\System.Web.WebPages.Deployment.dll
+D:\SingleSignOn\SSOAPP\SSOAPP\bin\System.Web.WebPages.dll
+D:\SingleSignOn\SSOAPP\SSOAPP\bin\System.Web.WebPages.Razor.dll
+D:\SingleSignOn\SSOAPP\SSOAPP\bin\WebGrease.dll
+D:\SingleSignOn\SSOAPP\SSOAPP\bin\EntityFramework.xml
+D:\SingleSignOn\SSOAPP\SSOAPP\bin\EntityFramework.SqlServer.xml
+D:\SingleSignOn\SSOAPP\SSOAPP\bin\System.Web.Helpers.xml
+D:\SingleSignOn\SSOAPP\SSOAPP\bin\System.Web.Mvc.xml
+D:\SingleSignOn\SSOAPP\SSOAPP\bin\System.Web.Optimization.xml
+D:\SingleSignOn\SSOAPP\SSOAPP\bin\System.Web.Razor.xml
+D:\SingleSignOn\SSOAPP\SSOAPP\bin\System.Web.WebPages.xml
+D:\SingleSignOn\SSOAPP\SSOAPP\bin\System.Web.WebPages.Deployment.xml
+D:\SingleSignOn\SSOAPP\SSOAPP\bin\System.Web.WebPages.Razor.xml
+D:\SingleSignOn\SSOAPP\SSOAPP\bin\Antlr3.Runtime.pdb
+D:\SingleSignOn\SSOAPP\SSOAPP\bin\Newtonsoft.Json.xml
+D:\SingleSignOn\SSOAPP\SSOAPP\obj\Debug\SSOAPP.csprojResolveAssemblyReference.cache
+D:\SingleSignOn\SSOAPP\SSOAPP\obj\Debug\SSOAPP.dll
+D:\SingleSignOn\SSOAPP\SSOAPP\obj\Debug\SSOAPP.pdb
+D:\SingleSignOn\SSOAPP\SSOAPP\bin\System.Net.Http.Formatting.dll
+D:\SingleSignOn\SSOAPP\SSOAPP\bin\System.Web.Http.dll
+D:\SingleSignOn\SSOAPP\SSOAPP\bin\System.Net.Http.Formatting.xml
+D:\SingleSignOn\SSOAPP\SSOAPP\bin\System.Web.Http.xml
+D:\SingleSignOn\SSOAPP\SSOAPP\bin\System.Web.Http.WebHost.dll
+D:\SingleSignOn\SSOAPP\SSOAPP\bin\System.Web.Http.WebHost.xml

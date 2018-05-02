@@ -1,0 +1,44 @@
+﻿@model Webapp1.Models.LoginVM
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>WebApp1 - Create new user</title>
+</head>
+<body>
+    @using (Html.BeginForm("Create", "Users", FormMethod.Post))
+    {
+        @Html.AntiForgeryToken()
+        @Html.HiddenFor(s => s.ReturnURL)
+
+        <h1>Site client - Registration</h1>
+        <div>
+
+            @if (TempData["ErrorMSG"] != null)
+            {
+                <label style="color:maroon;"> @TempData["ErrorMSG"] </label>
+                <br /><br />
+            }
+            
+            @if (TempData["InfoMSG"] != null)
+            {
+                <label style="color:darkgreen;"> @TempData["InfoMSG"] </label>
+                <br /><br />
+            }
+
+            @Html.TextBoxFor(s => s.Username, new { @placeholder = "Username" })
+            <br /> <br />
+            @Html.PasswordFor(s => s.Password, new { @placeholder = "Password" })
+            <br /> <br />
+           
+            <button type="submit">Submit</button>
+            <button type="button" onclick="location.href='@Url.Action("Login", "Home")'">Cancel</button>
+        </div>
+    }
+</body>
+</html>
